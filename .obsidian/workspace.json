@@ -11,15 +11,36 @@
             "id": "7a539a5614bedc7f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2a95a77c69c8cfe",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Perchè sono passato da una Volpe a un Coniglio per le mie Crypto/Perchè sono passato da una Volpe a un Coniglio per le mie Crypto.md",
-                "mode": "preview",
+                "file": "articoli/template.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "569113313ba25ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "provolone-pane-e-mozza 2.jpg.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Perchè sono passato da una Volpe a un Coniglio per le mie Crypto/Perchè sono passato da una Volpe a un Coniglio per le mie Crypto.md",
+                "file": "provolone-pane-e-mozza 2.jpg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Perchè sono passato da una Volpe a un Coniglio per le mie Crypto/Perchè sono passato da una Volpe a un Coniglio per le mie Crypto.md",
+                "file": "provolone-pane-e-mozza 2.jpg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perchè sono passato da una Volpe a un Coniglio per le mie Crypto/Perchè sono passato da una Volpe a un Coniglio per le mie Crypto.md"
+                "file": "provolone-pane-e-mozza 2.jpg.md"
               }
             }
           }
@@ -136,6 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a539a5614bedc7f",
-  "lastOpenFiles": []
+  "active": "569113313ba25ca9",
+  "lastOpenFiles": [
+    "articoli/Momentum Finance, forse il vero token che non può perdere valore?/Momentum Finance, forse il vero token che non può perdere valore.md",
+    "articoli/Consigli Pratici per stare al sicuro nel mondo Crypto/Consigli Pratici per stare al sicuro nel mondo Crypto.md",
+    "articoli/Momentum Finance, forse il vero token che non può perdere valore?/Momentum Finance, forse il vero token che non può perdere valore?.md",
+    "articoli/Perchè sono passato da una Volpe a un Coniglio per le mie Crypto/Perchè sono passato da una Volpe a un Coniglio per le mie Crypto.md",
+    "articoli/Un titolo qualsiasi/Un titolo qualsiasi.md",
+    "articoli/Provolone.md",
+    "articoli/template.md",
+    "progetti/template.md",
+    "README.md",
+    "articoli/Provolone 1.md"
+  ]
 }
