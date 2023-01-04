@@ -18,11 +18,14 @@ dapp: 'https://app.phenix.finance/',
 
 Aggiungere la descrizione del progetto, e altri dettagli.
 
-## Articoli
-Qua, per il momento, aggiungiamo a manella gli articolo **del nostro blog** che trattano il progetto.
+## A prima vista
+Sezione per presentare i punti salienti del progetto. Su quale chain è presente, caratteristiche che lo rendono interessante e poco altro.
 
-## Podcast
-Qua, per il momento, aggiungiamo a manella **i nostri upload** del podcast che trattano il progetto.
+## Cosa trovi nel WP
+Fatta la descrizione entriamo nel vivo del WhitePaper ed elenchiamo i punti salienti che abbiamo ottenuto dalla sua lettura.
 
-## Tutto a manella?? Che palle!
-Tranquilli man mano che andiamo avanti con la creazione di contenuto trovo un modo per collegare tutto quanto cosí voi non dovrete fare altro che scrivere la descrizione 😉
+## Cosa facciamo noi?
+Elencare di seguito le strategie che il team de La Crypta ha pensato per il progetto
+
+## Come investire nel progetto
+Un mini tutorial su quali siano le strade per investire nel progetto.

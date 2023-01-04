@@ -2,8 +2,8 @@
   "note-folder-autorename:make-folder-note": [
     {
       "modifiers": [
-        "Ctrl",
-        "Shift"
+        "Alt",
+        "Ctrl"
       ],
       "key": "F"
     }

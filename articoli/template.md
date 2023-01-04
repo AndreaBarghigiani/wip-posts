@@ -2,7 +2,7 @@
 title: 'Titolo del tuo articolo'
 date: 'YYYY-MM-DD'
 author: 'autore'
-categories['crypto', 'wallet', 'chetepare']
+categories: ['crypto', 'wallet', 'chetepare']
 ---
 Qua inizi a scrivere quel che ti pare...
 
