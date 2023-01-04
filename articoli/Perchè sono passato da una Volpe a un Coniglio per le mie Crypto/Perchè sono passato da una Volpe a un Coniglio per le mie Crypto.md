@@ -46,8 +46,8 @@ A differenza di MM con Rabby **tutto è a portata di click**, se con la volpe ve
 
 Come puoi notare tu stesso hai tutto quello che ti serve subito visibile ma entriamo un attimo nel dettaglio per capire meglio **cosa** è stato reso disponibile con l'installazione di questo wallet.
 
-- **Swap** - funzionalità al momento disattivata per precedenti problemi di sicurezza permette di trovare lo swap migliore tra diversi aggregatori,
-- **Send** e **Receive** - rispettivamente permettono di inviare e ricevere qualsiasi token nel tuo wallet
+- **Swap** - permette di trovare lo swap migliore tra diversi aggregatori,
+- **Send** e **Receive** - permettono, rispettivamente, di inviare e ricevere qualsiasi token nel tuo wallet
 - **Gas Top Up** - fighissima funzionalità che ti permette di fare uno swap velocissimo da *una chain ad un altra* per aumentare il tuo capitale di coin e permetterti di pagare le gas fee. Praticamente se hai 5 BNB ma non hai ETH da usare su Ethereum grazie a questa funzionalità potrai risolvere immediatamente il problema.
 - **Transaction** - la lista delle tue ultime transazioni
 - **Connected** - la lista delle dApp alle quali ti sei precedentemente collegato
@@ -102,6 +102,6 @@ Ti ho già detto che Rabby riconosce automaticamente i token che sono collegati 
 
 A differenza delle chain tu sarai in grado di aggiungere l'hash di qualsiasi token che hai nel wallet e Rabby sarà in grado di mostrare sia la quantità che il valore **ma** non ne terrà di conto quando ti mostra il valore totale del tuo wallet.
 
-Di certo dopo aver sentito tutti gli elogi fatti a questo wallet, sapere che il token dell'ultimo degen play che ti ha fatto 50x non viene conteggiato in Rabby magari te le fa anche un po' girare **però** che altro desideri da un wallet che ti da tutto questo a gratis.
+Di certo dopo aver sentito tutti gli elogi fatti a questo wallet, sapere che il token dell'ultimo degen play che ti ha fatto 50x non viene conteggiato in Rabby magari te le fa anche un po' girare **però** che altro desideri da un wallet che ti da tutto questo gratis?!?
 
 Ah e comunque MetaMask neanche ti da un'idea di quandi dollaroni ci sono nel tuo wallet **in generale**, quindi se inizi ad usare Rabby non è che ti va a finire cosí male 😂
