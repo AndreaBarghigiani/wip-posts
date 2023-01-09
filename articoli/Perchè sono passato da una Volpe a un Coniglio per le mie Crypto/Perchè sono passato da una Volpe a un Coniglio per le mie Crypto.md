@@ -21,7 +21,7 @@ Iniziamo subito con il dire che quello che si ottiene in comodità lo si ripaga 
 
 Ed ecco il primo punto che voglio mettere in luce: 
 
-> Non hai bisogno di rimuovere il tuo MetaMask per testare Rabby, questi due wallet possono tranquillamente **coesistere nel tuo browser**.
+> Non hai bisogno di rimuovere il tuo MetaMask per testare Rabby, questi due wallet possono tranquillamente **coesistere nel tuo browser**. Per passare da un wallet all'altro basta un singolo click! 
 
 Adesso che abbiamo eliminato anche la preoccupazione dovuta al cambiamento, prima di andare a parlare nello specifico di Rabby c'è un ultima premessa che sento il **dovere** di fare.
 
@@ -44,7 +44,7 @@ A differenza di MM con Rabby **tutto è a portata di click**, se con la volpe ve
 
 ![Le operazioni comuni in Rabby](rabby-operazioni-comuni.png)
 
-Come puoi notare tu stesso hai tutto quello che ti serve subito visibile ma entriamo un attimo nel dettaglio per capire meglio **cosa** è stato reso disponibile con l'installazione di questo wallet.
+Come puoi notare tu stesso hai tutto quello che ti serve subito visibile, ma entriamo un attimo nel dettaglio per capire meglio **cosa** è stato reso disponibile con l'installazione di questo wallet.
 
 - **Swap** - permette di trovare lo swap migliore tra diversi aggregatori,
 - **Send** e **Receive** - permettono, rispettivamente, di inviare e ricevere qualsiasi token nel tuo wallet
@@ -55,7 +55,7 @@ Come puoi notare tu stesso hai tutto quello che ti serve subito visibile ma entr
 - **Addresses** - ti fa accedere alla schermata per gestire tutti gli indirizzi collegati a Rabby
 - **Settings** - cliccando su di questo potrai accedere alle configurazioni del wallet.
 
-Questa è stata una veloce introduzioni alla schermata principale di Rabby ma non starai mica pensando che sia tutto qua vero? Certo alcune funzionalità sono veramente comode e mi viene da dire che il modo in cui queste vengono presentade è semplicemente sublime ma il nostro conoglietto ha ancora altro in serbo.
+Questa è stata una veloce introduzioni alla schermata principale di Rabby ma non starai mica pensando che sia tutto qua vero? Certo, alcune funzionalità sono veramente comode e mi viene da dire che il modo in cui queste vengono presentate è semplicemente sublime, ma il nostro coniglietto ha ancora altro in serbo.
 
 ## Le chain più utilizzate sono già configurate
 Non so se hai mai avuto la necessità di configurare MetaMask per spostare dei fondi su di un altra chain ma ti posso assicurare che i passaggi sono **incredibilmente noiosi** e si possono fare un sacco di errori.
@@ -66,28 +66,28 @@ Ebbene dovremmo andare sul sito [ChainList](https://chainlist.org/), cercare *Po
 
 Se poi non ti fidi del sito dovrai inserire a manella ogni singolo settaggio per fare in modo che MetaMask inizi a parlare con la chain in questione.
 
-Ma questo non è neanche tutto perchè di tanto in tanto l'RPC che utilizzerai farà i capricci quindi ti ritroverai punto e a capo tornando su  ChainList, copiando un nuovo RPC e sostituendolo al precedente.
+Ma questo non è neanche tutto perchè di tanto in tanto l'RPC che utilizzerai farà i capricci quindi ti ritroverai punto e a capo replicando la precednete procedura: tornare su ChainList, copiare un nuovo RPC e sostiruirlo a quello precedente.
 
-Io ci sono passato diverse volte e posso assicurarti che **non è affatto divertente** 😅
+Io ci sono passato diverse volte e posso assicurarti che **non è affatto divertente** 😅, oltre al fatto che capita sempre nei momenti meno opportuni!
 
 La cosa bella è che con Rabby tutti questi passaggi sono **storia vecchia!!!**
 
 Il coniglietto arriva già configurato con le chain più utilizzate, puoi mettere tra i preferiti quelle che usi più frequentemente e dimenticarti dei problemi di RPC perchè **imposta automaticamente** quelli più veloci.
 
-Se dovessi fare l'avvocato del diavolo, e lo faccio perché desidero che tu capisca bene, tutta questa comodità ha un prezzo da pagare. A differenza di MM **non potrai aggiungere chain** quindi dovrai attendere che gli sviluppatori implementino una nuova chain o farti andar bene una delle 30+ disponibili.
+Se dovessi fare l'avvocato del diavolo, e lo faccio perché desidero che tu capisca bene, tutta questa comodità ha un "prezzo da pagare". A differenza di MM **non potrai aggiungere nuove chain**, ma dovrai attendere che gli sviluppatori implementino una nuova chain o farti andar bene una delle 30+ disponibili.
 
 ## Tutto sempre sotto controllo
 Altra cosa che ho apprezzato **fin da subito** di Rabby è il fatto che ti rende facile sapere quanto stai holdando nel tuo wallet in ogni istante.
 
 ![](rabby-holding.png)
 
-Vedi quel $96.35? No non te lo sto mostrando per farti vedere quanto sono ~~ricco~~ povero, te lo faccio notare perchè a differenza di MetaMask quello non è quanto stai holdando nella coin della chain; quello è **il totale** delle tue ricchezze presente **in qualsiasi chain** che sono collegate a quello specifico wallet.
+Vedi quel $96.35? No non te lo sto mostrando per farti vedere quanto sono ~~ricco~~ povero, te lo faccio notare perchè, a differenza di MetaMask, quello non è quanto stai holdando nella coin della chain; quello è **il totale** delle tue ricchezze presente **in qualsiasi chain** che sono collegate a quello specifico wallet.
 
 E questa proprietà *multi-chain* è l'aspetto che adoro maggiormente.
 
-A differenza di MetaMask dove tutto viene visualizzato in base alla chain selezionata, su Rabby non hai questo problema perchè tutto viene visualizzato indipendentemente dalla chain.
+A differenza di MetaMask, dove il contenuto del wallet viene visualizzato in base alla chain selezionata, su Rabby viene visualizzato il contenuto del tuo wallet (0xTUOWALLET...) indipendentemente dalla chain.
 
-Allo stesso modo ti è possibile controllare in un colpo d'occhio quali sono i token che stai holdando ordinati per valore, i protocolli dove hai messo LP o in stake e anche le NFT che sono collegate al wallet.
+Allo stesso modo, ti è possibile controllare in un solo colpo d'occhio quali sono i token che stai holdando ,ordinati per valore, i protocolli dove hai messo LP o in stake e anche le NFT che sono collegate al wallet.
 
 Mi sono forse dimenticato di dirti che oltre a non avere la necessità di inserire nuove chain non devi neanche **inserire i contratti dei token**?!? Appena l'ho visto sono stato stra-felice perchè quelle volte che ho dovuto importare MM su altri browser la parte più noiosa è sempre state importare uno ad uno i token che holdavo.
 
@@ -98,10 +98,12 @@ Siamo arrivati alla conclusione di questo articolo e voglio esporti - forse - l'
 
 Ok che mi piace moltissimo ed è diventato il mio *go-to* wallet ma bisogna essere imparziali e se noto delle mancanze devo esporle.
 
-Ti ho già detto che Rabby riconosce automaticamente i token che sono collegati al tuo wallet, beh lasciami dire che non ti ho detto tutta la verità. Infatti Rabby è in grado di mostrare e conteggiare tutti i token che **sono riconosciuti da DeBank**.
+Ti ho già detto che Rabby riconosce automaticamente i token che sono collegati al tuo wallet, beh lasciami dire che non ti ho detto tutta la verità. Infatti, Rabby è in grado di mostrare e conteggiare "solo" i token che **sono riconosciuti da DeBank**.
 
 A differenza delle chain tu sarai in grado di aggiungere l'hash di qualsiasi token che hai nel wallet e Rabby sarà in grado di mostrare sia la quantità che il valore **ma** non ne terrà di conto quando ti mostra il valore totale del tuo wallet.
 
 Di certo dopo aver sentito tutti gli elogi fatti a questo wallet, sapere che il token dell'ultimo degen play che ti ha fatto 50x non viene conteggiato in Rabby magari te le fa anche un po' girare **però** che altro desideri da un wallet che ti da tutto questo gratis?!?
 
-Ah e comunque MetaMask neanche ti da un'idea di quandi dollaroni ci sono nel tuo wallet **in generale**, quindi se inizi ad usare Rabby non è che ti va a finire cosí male 😂
+Ah comunque ricordiamoci che MetaMask neanche ti da un'idea di quandi dollaroni ci sono nel tuo wallet **in generale**, quindi se inizi ad usare Rabby non è che ti va a finire cosí male 😂
+
+
